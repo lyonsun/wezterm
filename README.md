@@ -17,3 +17,5 @@ git clone git@github.com:lyonsun/wezterm.git ~/.config/wezterm
 ```
 
 3. Start Wezterm
+
+That's it, happy coding!
